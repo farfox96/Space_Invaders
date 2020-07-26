@@ -1,0 +1,16 @@
+#!/bin/bash
+python
+
+rospy
+#rosmethods for python
+
+gym #Gym is a toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Pinball.
+#[https://gym.openai.com/]
+import cv2 #open source computer vision and machine learning software library
+#[https://opencv.org/]
+numpy as np #The fundamental package for scientific computing with Python [in world] maneja las matrices del juego spcx 
+#[https://numpy.org/]
+
+import imutils0
+from std_msgs.msg import String
+from sensor_msgs.msg import CompressedImage
